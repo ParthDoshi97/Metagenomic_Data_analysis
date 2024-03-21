@@ -1,1 +1,1 @@
-# Metagenomic Sequence Data anaylsis
+# Python and R script to create customize Metagenomic data Analysis Reports
