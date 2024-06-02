@@ -19,7 +19,7 @@ Install R from CRAN.
 Install the required R packages:
 
 ```bash
-install.packages(c("vegan", "phyloseq", "ggplot2"))
+install.packages(c("phyloseq", "vegan", "ape", "ggplot2", "reshape2", "dplyr", "ggpubr"))
 ```
 ### Python Setup
 Install Python from Python.org.
@@ -32,13 +32,13 @@ Running the R Script
 To calculate Alpha & Beta Diversity and create Taxonomy pie charts using the R script:
 
 ```bash r
-source("metagenomic_analysis.R")
+source("Alpha_&_Beta_diversity.R")
 ```
 Running the Python Script
 To perform additional analysis and visualization with the Python script:
 
 ```bash
-python metagenomic_analysis.py
+python pie_chart.py
 ```
 ## Example plot the script will create
 
