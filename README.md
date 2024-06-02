@@ -4,7 +4,7 @@
 ![R version](https://img.shields.io/badge/r-4.2.1-red.svg)
 
 
-This repository contains R and Python scripts for performing comprehensive metagenomic data analysis. The scripts are designed to calculate Alpha & Beta Diversity and create Taxonomy pie charts from ASV and OTU data collected from 16s RNA sequences.
+This repository contains R and Python scripts for performing comprehensive metagenomic data analysis. The scripts are designed to calculate Alpha & Beta Diversity and create Taxonomy pie charts from ASV and OTU data collected from 16s RNA sequences. This script was were create to create specfic data analysis for one of my project 
 
 ## Features
 Alpha Diversity Calculation: Measure the diversity within a single sample.
@@ -42,14 +42,14 @@ python pie_chart.py
 ```
 ## Example plot the script will create
 
-Figure 1: Alpha Diversity
+#### Figure 1: Alpha Diversity
+<img src="https://github.com/ParthDoshi97/Metagenomic_Data_analysis/assets/126096120/6845e5c5-b757-4213-a409-97d5b91abc1a" alt="Alpha Diversity" width="500" height="400">
 
+#### Figure 2: Beta Diversity
+<img src="https://github.com/ParthDoshi97/Metagenomic_Data_analysis/assets/126096120/e978596a-f48a-46bc-aa8a-0a3800102d31" alt="Beta Diversity" width="500" height="400">
 
-Figure 2: Beta Diversity
-
-
-Figure 3: Taxonomy Pie Chart
-
+#### Figure 3: Taxonomy Pie Chart
+<img src="https://github.com/ParthDoshi97/Metagenomic_Data_analysis/assets/126096120/47936fdc-ef12-45ff-b0c2-46dec6a8ff6d" alt="Taxonomy Pie Chart" width="600" height="500">
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for detail
