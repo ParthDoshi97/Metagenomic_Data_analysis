@@ -49,7 +49,7 @@ python pie_chart.py
 <img src="https://github.com/ParthDoshi97/Metagenomic_Data_analysis/assets/126096120/e978596a-f48a-46bc-aa8a-0a3800102d31" alt="Beta Diversity" width="500" height="400">
 
 #### Figure 3: Taxonomy Pie Chart
-<img src="https://github.com/ParthDoshi97/Metagenomic_Data_analysis/assets/126096120/47936fdc-ef12-45ff-b0c2-46dec6a8ff6d" alt="Taxonomy Pie Chart" width="600" height="500">
+<img src="https://github.com/ParthDoshi97/Metagenomic_Data_analysis/assets/126096120/47936fdc-ef12-45ff-b0c2-46dec6a8ff6d" alt="Taxonomy Pie Chart" width="600" height="350">
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for detail
